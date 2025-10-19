@@ -1,0 +1,10 @@
+streamlit
+langchain==0.3.13
+langchain-community==0.3.13
+langchain-groq==0.2.1
+langchain-text-splitters==0.3.4
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+tiktoken
